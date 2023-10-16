@@ -1,0 +1,5 @@
+- refine=False
+- model.path=/root/lama/big-lama
+- indir=/root/lama/LaMa_test_images
+- outdir=/root/lama/output
+- device=cpu
